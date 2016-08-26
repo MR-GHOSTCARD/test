@@ -4,7 +4,7 @@ Git is free software.
 初始化 git 仓库 git init
 添加文件到git仓库
 	1.使用命令 git add <file> 可反复多次使用添加多个文件
-	2.使用命令 git commit
+	2.使用命令 git commit -m ""
 
 时光穿梭机
 	git status命令查看仓库状态
